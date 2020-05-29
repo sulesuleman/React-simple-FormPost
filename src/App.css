@@ -1,0 +1,8 @@
+.App-header {
+    min-height: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-size: calc(10px + 2vmin);
+    color: rgb(19, 1, 1);
+  }
